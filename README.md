@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to your Mesran Private Party App 🎉
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -24,6 +24,10 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+## About the App
+
+This app helps you manage RSVPs for your private party. Guests can confirm their attendance, view event details, and get updates—all in one place.
 
 ## Get a fresh project
 
