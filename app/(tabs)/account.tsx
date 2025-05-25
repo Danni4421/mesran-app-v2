@@ -1,14 +1,14 @@
 import { ThemedText } from "@/components/ThemedText";
 import { ThemedView } from "@/components/ThemedView";
 
-export default function HomeScreen() {
+export default function AccountPage() {
   return (
     <ThemedView
       style={{ flex: 1, justifyContent: "center", alignItems: "center" }}
     >
-      <ThemedText type="title">Home Page</ThemedText>
+      <ThemedText type="title">Account Page</ThemedText>
       <ThemedText type="default">
-        This is a placeholder for the chat functionality.
+        This is a placeholder for the account functionality.
       </ThemedText>
     </ThemedView>
   );
