@@ -6,6 +6,18 @@ import { View } from "react-native";
 export default function CreateEventScreen() {
   return (
     <ThemedView style={{ flex: 1, padding: 16 }}>
+      <ThemedView
+        style={{
+          display: "flex",
+          flexDirection: "row",
+          alignItems: "center",
+          justifyContent: "space-between",
+        }}
+      >
+        <AppText.Semibold style={{ fontSize: 24 }}>
+          Halo, Selamat Datang!
+        </AppText.Semibold>
+      </ThemedView>
       <AppText.Bold
         style={{ fontSize: 24, color: Palette.primaryBase, marginBottom: 16 }}
       >

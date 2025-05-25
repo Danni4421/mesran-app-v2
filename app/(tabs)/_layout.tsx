@@ -48,7 +48,7 @@ export default function TabLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: "Home",
+          title: "Beranda",
           tabBarIcon: ({ color }) => <House size={28} color={color} />,
         }}
       />
@@ -72,7 +72,7 @@ export default function TabLayout() {
       <Tabs.Screen
         name="account"
         options={{
-          title: "Akun",
+          title: "Profil",
           tabBarIcon: ({ color }) => <UserRound size={28} color={color} />,
         }}
       />
